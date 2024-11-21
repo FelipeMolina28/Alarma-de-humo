@@ -1,4 +1,12 @@
 para este proyecto para el hogar vamos a usar una PCB, una ESP32, sensores MQ9, MQ135 Y FOTOELECTRICO. con los siguientes codigos.
+Anexo imagenes de los sensores:
+![image](https://github.com/user-attachments/assets/43edc0ab-c488-4c8a-b347-25390cbf8c1a)
+
+![image](https://github.com/user-attachments/assets/875f86bc-925b-4b22-adf3-0ebd1c546b80)
+
+![image](https://github.com/user-attachments/assets/c73744f1-916d-46b1-99bb-ba09f1ee417b)
+
+
 #include <WiFi.h>
 #include <WiFiClient.h>
 #include "secrets.h"
